@@ -1,0 +1,133 @@
+[
+    {
+        "name": "Cardio Blast",
+        "price": 245.67,
+        "description": "Intense workout video with a duration of 45 minutes. Perfect for cardiovascular fitness and endurance.",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/yoga/yoga_1.jpg"
+            },
+            {
+                "image": "/images/yoga/yoga_2.jpg"
+            }
+        ],
+        "category": "workouts",
+        "seller": "Owner",
+        "stock": 5,
+        "numOfReviews": 15,
+        "reviews": []
+    },
+    {
+        "name": "Strength Build",
+        "price": 150.32,
+        "description": "Powerful strength training video lasting 30 minutes. Ideal for building muscle and improving strength.",
+        "ratings": 3.5,
+        "images": [
+            {
+                "image": "/images/yoga/yoga_2.jpg"
+            }
+        ],
+        "category": "workouts",
+        "seller": "owner",
+        "stock": 9,
+        "numOfReviews": 5,
+        "reviews": []
+    },
+    {
+        "name": "Flexibility Boost",
+        "price": 440.57,
+        "description": "Comprehensive flexibility workout video of 40 minutes. Designed to enhance your range of motion and flexibility.",
+        "ratings": 2,
+        "images": [
+            {
+                "image": "/images/yoga/yoga_3.jpg"
+            }
+        ],
+        "category": "workouts",
+        "seller": "owner",
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+    },
+    {
+        "name": "Core Strength",
+        "price": 250.45,
+        "description": "Core-focused workout video with a duration of 35 minutes. Excellent for strengthening and stabilizing your core muscles.",
+        "ratings": 4,
+        "images": [
+            {
+                "image": "/images/yoga/yoga_4.jpg"
+            }
+        ],
+        "category": "workouts",
+        "seller": "Owner",
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+    },
+    {
+        "name": "Zen Flow",
+        "price": 767.32,
+        "description": "Relaxing yoga video with a duration of 60 minutes. Includes a series of poses designed to enhance relaxation and flexibility.",
+        "ratings": 5,
+        "images": [
+            {
+                "image": "/images/yoga/yoga_5.jpg"
+            }
+        ],
+        "category": "yoga",
+        "seller": "owner",
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+    },
+    {
+        "name": "Power Stretch",
+        "price": 15.46,
+        "description": "Dynamic yoga video lasting 50 minutes. Focuses on strength-building and stretching to improve overall fitness.",
+        "ratings": 5,
+        "images": [
+            {
+                "image": "/images/yoga/yoga_6.jpg"
+            }
+        ],
+        "category": "yoga",
+        "seller": "Owner",
+        "stock": 4,
+        "numOfReviews": 20,
+        "reviews": []
+    },
+    {
+        "name": "Harmony Practice",
+        "price": 10.12,
+        "description": "Gentle yoga video of 45 minutes. Includes poses and breathing exercises for balance and harmony.",
+        "ratings": 3,
+        "images": [
+            {
+                "image": "/images/yoga/yoga_7.jpg"
+            }
+        ],
+        "category": "yoga",
+        "seller": "owner",
+        "stock": 6,
+        "numOfReviews": 9,
+        "reviews": []
+    },
+    {
+        "name": "Mindful Yoga",
+        "price": 10.12,
+        "description": "Meditative yoga video with a duration of 55 minutes. Combines mindful breathing and poses for mental and physical well-being.",
+        "ratings": 3,
+        "images": [
+            {
+                "image": "/images/yoga/yoga_8.jpg"
+            }
+        ],
+        "category": "yoga",
+        "seller": "owner",
+        "stock": 6,
+        "numOfReviews": 9,
+        "reviews": []
+    }
+]
